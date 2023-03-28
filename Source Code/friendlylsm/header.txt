@@ -1,0 +1,38 @@
+#include <linux/lsm_hooks.h>
+#include <linux/module.h>
+#include <linux/kernel.h>
+#include <linux/proc_fs.h>
+#include <asm/uaccess.h>
+#include <linux/module.h>
+#include <linux/seq_file.h>
+#include <linux/fs.h>
+#include <asm/segment.h>
+#include <linux/buffer_head.h>
+#include <linux/uaccess.h>
+#include <linux/init.h>
+#include <linux/watchdog.h>
+#include <linux/delay.h>
+#include <linux/syscalls.h>
+#include <linux/fcntl.h>
+#include <linux/file.h>
+#include <linux/slab.h>
+#include <linux/moduleparam.h>
+#include <linux/stat.h>
+#include <linux/printk.h>
+#include <linux/miscdevice.h>
+#include <linux/sched.h>
+#include <linux/string.h>
+
+MODULE_LICENSE("GPL");
+MODULE_AUTHOR("NF, SK");
+MODULE_DESCRIPTION("Friendly LSM - Filehook with GUI");
+MODULE_VERSION("0.01");
+
+#define MY_FILE "/home/flsm/Desktop/flsm.txt"
+char buf[128];
+struct file *file = NULL;
+void *in_buf;
+const void *out_buf;
+
+
+

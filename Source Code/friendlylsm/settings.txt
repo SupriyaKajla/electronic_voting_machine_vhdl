@@ -1,0 +1,33 @@
+//Start Hard Data from GUI
+int count = 5; //count
+
+const char * proglist[] = {"node","gnome-calculato","gedit","gnome-screenshot","other"}; //proglist
+const char * proglistdprfiles[] = {"S","W","W","S","A"}; //progsettingslist
+
+const char * w_settings[] = {"1","1","0"}; //wsettingslist
+const char * s_settings[] = {"1","1","1"}; //ssettingslist
+const char * a_settings[] = {"1","1","0"}; //asettingslist
+
+int s_allow_userscount = 2;
+const char * s_allow_users[] = { "1", "0" };
+
+int s_rest_userscount = 1;
+const char * s_rest_users[] = { "1000"};
+
+int w_allow_userscount = 2;
+const char * w_allow_users[] = { "1", "0" };
+
+int w_restric_userscount = 1;
+const char * w_restric_users[] = { "1000"};
+
+
+
+
+//settings index 0 - audit, 1- give warning , 2- restrict-access,
+
+//A -- Audit --  only Audit
+//W -- Warning -- only audit and log complain
+//S -- Strict -- Stop execution, audit
+
+//End Hard Data from GUI
+

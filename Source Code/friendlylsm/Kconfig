@@ -1,0 +1,6 @@
+config SECURITY_FLSM
+bool "Friendly LSM"
+default n
+help
+This module does nothing in a positive kind of way.
+

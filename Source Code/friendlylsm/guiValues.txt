@@ -1,0 +1,2 @@
+App: {'Apps'}
+Profile: {'Profiles'}

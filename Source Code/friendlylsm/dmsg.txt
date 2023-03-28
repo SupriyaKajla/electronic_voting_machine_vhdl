@@ -1,0 +1,1108 @@
+[    5.903287] Friendly LSM initialized
+[  816.381893] Restrict: Friendly LSM Restricted Opening this file node 
+[  816.381924] Restrict: Friendly LSM Restricted Opening this file node 
+[  852.252507] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.252508] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.252531] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.252531] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.254191] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.254193] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.254332] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.254332] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.254384] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.254385] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.254426] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.254427] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.254460] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.254460] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.254504] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.254504] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.254571] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.254571] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.257316] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.257318] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261285] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261287] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261362] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261362] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261410] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261410] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261465] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261465] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261506] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261506] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261548] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261548] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261587] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261587] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261625] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261625] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261760] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261761] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261802] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261803] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261840] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261840] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261940] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261940] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.261982] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.261983] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262048] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262048] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262081] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262082] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262120] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262121] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262167] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262167] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262200] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262201] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262238] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262238] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262273] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262274] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262309] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262310] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262347] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262347] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262383] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262384] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262427] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262427] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262461] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262462] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262493] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262494] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262527] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262528] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262562] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262562] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262593] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262594] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262627] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262627] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262659] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262659] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262691] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262692] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262726] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262726] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262764] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262764] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262806] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262807] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262920] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262920] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.262965] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.262966] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263003] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263004] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263044] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263044] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263096] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263096] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263137] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263137] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263174] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263174] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263214] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263215] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263250] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263251] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263286] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263286] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263336] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263336] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263387] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263388] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263431] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263431] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263472] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263472] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263506] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263507] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263545] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263546] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263581] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263581] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263620] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263621] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263662] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263662] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263716] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263716] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263758] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263758] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.263835] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.263836] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266085] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266086] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266160] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266161] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266221] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266222] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266267] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266268] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266308] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266309] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266356] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266357] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266395] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266395] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266435] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266435] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266480] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266481] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266520] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266520] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266558] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266559] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266604] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266604] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266652] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266652] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266693] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266694] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266793] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266794] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266845] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266846] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266911] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266912] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.266963] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.266963] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.267015] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.267015] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.267075] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.267075] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.267112] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.267112] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.267157] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.267157] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.286271] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.286272] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.289932] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.289933] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.290026] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.290027] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.290203] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.290204] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.290978] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.290979] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.291249] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.291249] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.291402] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.291403] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.295803] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.295804] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.302832] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.302834] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.305962] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.305964] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.306013] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.306014] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.306287] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.306288] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.306372] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.306372] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.306386] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.306387] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.306594] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.306595] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.307102] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.307103] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.312934] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.312935] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.313774] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.313775] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.425732] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.425734] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.426036] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.426037] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.426115] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.426116] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.426133] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.426134] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.426313] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.426313] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.426490] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.426491] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.426573] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.426574] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.426666] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.426667] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.426754] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.426754] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.426818] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.426819] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.430243] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.430244] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.430536] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.430537] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.430732] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.430732] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.430924] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.430925] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.433218] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.433220] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.433327] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.433328] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.433659] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.433659] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.433677] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.433678] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.434183] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.434183] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.434249] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.434250] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.435085] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.435086] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.435849] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.435850] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.437372] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.437374] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.437877] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.437878] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.438529] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.438530] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.439557] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.439575] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.507452] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.507454] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.508898] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.508900] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.508907] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.508908] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.509423] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.509424] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.510053] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.510055] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.510061] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.510062] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.511494] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.511496] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.513094] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.513096] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.513109] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.513110] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.514274] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.514275] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.516554] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.516556] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.516564] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.516564] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.533560] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.533562] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.533890] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.533891] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.533911] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.533911] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.534065] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.534065] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.534143] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.534144] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.534241] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.534242] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.534398] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.534398] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.534474] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.534475] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.534491] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.534491] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.541801] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.541802] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.541947] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.541948] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.542252] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.542252] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.542329] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.542329] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.542370] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.542371] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.542490] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.542490] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.542527] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.542528] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.542564] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.542565] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.542598] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.542598] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.542631] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.542631] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.542664] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.542664] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.542714] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.542714] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.542764] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.542765] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.542821] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.542821] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.543480] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.543480] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.545520] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.545521] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.545567] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.545567] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.545769] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.545769] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.545912] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.545912] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546156] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546157] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546222] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546223] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546310] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546310] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546343] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546344] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546386] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546386] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546436] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546437] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546497] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546497] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546565] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546566] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546632] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546633] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546726] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546726] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546813] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546813] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546852] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546852] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.546983] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.546983] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547072] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547073] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547119] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547119] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547194] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547194] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547271] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547271] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547363] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547363] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547472] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547473] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547517] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547518] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547573] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547573] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547648] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547648] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547723] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547723] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547782] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547782] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547841] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547841] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.547942] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.547943] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.550314] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.550316] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.550386] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.550387] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.550439] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.550440] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.550468] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.550469] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.550495] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.550495] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.550520] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.550521] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.550546] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.550546] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.550590] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.550591] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.550634] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.550635] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.550664] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.550665] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.550730] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.550731] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.550808] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.550808] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.551074] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.551074] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.551139] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.551139] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.551294] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.551295] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.551453] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.551454] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.551574] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.551575] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.551682] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.551683] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.551753] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.551754] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.554682] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.554684] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.554836] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.554837] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.554893] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.554897] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.555767] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.555769] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.556598] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.556600] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.556935] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.556936] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.556996] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.556997] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557045] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557046] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557140] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557140] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557184] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557185] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557227] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557227] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557268] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557269] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557311] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557311] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557353] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557353] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557393] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557394] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557430] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557431] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557466] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557467] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557502] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557503] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557571] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557572] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557618] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557618] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557656] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557656] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557728] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557728] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557780] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557780] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557827] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557828] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557891] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557891] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.557948] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.557949] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.558017] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.558018] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.558079] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.558079] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.558178] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.558179] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.558248] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.558249] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.558317] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.558317] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.558365] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.558365] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.558569] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.558569] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.558618] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.558618] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.558928] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.558929] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.559005] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.559005] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.559083] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.559084] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.559141] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.559141] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.559191] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.559191] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.559272] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.559273] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.559515] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.559516] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.559785] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.559786] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.559861] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.559862] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.559907] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.559907] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.559943] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.559944] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.560014] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.560015] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.560062] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.560063] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.560099] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.560099] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.560133] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.560134] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.562706] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.562707] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.562791] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.562791] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.562854] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.562855] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.562914] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.562914] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.562987] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.562987] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.563137] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.563138] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.563210] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.563210] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.563384] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.563384] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.563610] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.563610] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.563784] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.563785] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.563836] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.563837] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.563891] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.563892] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.563918] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.563918] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.563944] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.563944] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.563973] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.563974] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.563982] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.563982] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.563989] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.563990] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.564016] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.564016] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.564023] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.564023] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.564030] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.564030] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.564043] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.564043] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.564049] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.564050] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.564056] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.564056] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.564066] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.564066] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.564095] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.564095] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.564112] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.564112] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.564134] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.564135] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.565773] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.565774] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.565792] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.565792] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.565816] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.565816] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.565825] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.565826] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.565833] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.565833] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.565928] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.565929] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.565937] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.565938] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.565946] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.565946] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.565959] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.565959] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.565966] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.565966] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.565973] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.565973] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.565994] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.565994] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566001] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566002] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566008] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566008] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566020] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566021] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566056] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566056] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566065] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566065] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566132] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566133] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566141] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566141] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566149] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566149] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566162] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566162] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566170] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566171] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566177] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566177] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566188] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566188] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566195] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566196] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566202] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566202] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566213] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566213] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566220] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566221] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566226] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566227] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566236] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566237] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566244] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566244] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566250] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566250] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566262] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566263] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566275] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566275] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566282] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566282] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566292] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566292] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566299] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566299] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566305] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566305] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566323] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566323] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566330] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566330] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566336] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566337] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566359] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566360] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566367] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566367] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566374] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566374] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566399] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566400] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566407] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566407] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566413] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566414] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566428] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566428] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566435] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566435] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566441] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566442] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566456] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566456] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566463] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566463] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566469] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566469] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566485] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566486] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566495] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566496] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566502] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566503] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566517] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566518] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566525] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566525] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566531] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566532] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566547] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566547] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566554] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566555] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566561] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566561] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566575] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566575] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566583] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566583] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566589] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566590] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566603] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566603] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566610] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566611] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566617] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566617] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566627] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566627] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566634] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566634] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566640] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566640] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566656] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566657] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566664] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566664] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566670] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566671] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566685] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566686] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566693] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566693] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566699] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566699] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566719] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566719] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566727] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566727] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566733] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566733] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566748] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566749] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566762] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566762] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566776] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566777] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566808] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566808] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566819] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566819] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566827] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566827] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566842] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566843] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566850] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566850] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566856] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566857] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566870] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566870] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566877] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566878] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566884] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566884] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566898] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566899] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566905] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566906] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566913] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566914] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566928] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566929] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566936] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566936] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566942] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566943] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566959] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566960] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566966] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566967] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.566973] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.566973] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567034] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567035] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567049] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567050] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567061] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567061] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567094] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567095] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567112] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567112] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567125] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567126] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567148] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567149] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567159] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567160] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567170] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567171] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567192] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567192] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567205] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567205] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567215] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567216] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567246] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567247] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567258] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567259] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567275] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567276] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567339] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567340] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567352] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567352] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567365] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567366] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567389] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567390] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567402] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567402] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567415] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567432] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567456] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567457] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567486] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567487] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567516] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567517] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567565] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567566] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567584] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567585] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567596] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567597] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567621] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567621] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567634] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567634] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567645] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567646] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567668] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567669] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567681] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567682] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567694] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567695] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567738] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567738] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567765] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567765] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567772] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567773] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567787] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567788] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567795] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567795] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567801] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567802] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567815] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567816] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567823] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567823] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567829] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567829] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567843] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567844] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567851] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567851] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567857] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567857] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567871] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567872] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567878] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567879] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567885] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567885] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567899] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567899] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567909] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567910] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567919] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567919] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567954] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567955] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567969] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567969] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.567979] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.567980] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.576669] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.576671] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.576735] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.576736] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.576787] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.576789] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.576846] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.576847] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.576863] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.576864] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.576878] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.576879] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.576909] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.576909] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.576922] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.576923] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.576935] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.576936] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.576963] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.576964] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.576977] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.576978] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.576989] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.576990] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577016] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577017] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577031] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577032] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577045] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577046] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577081] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577082] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577096] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577097] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577109] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577110] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577135] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577136] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577149] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577150] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577162] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577162] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577186] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577187] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577199] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577200] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577210] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577210] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577273] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577273] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577287] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577288] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577298] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577299] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577320] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577321] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577331] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577332] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577341] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577341] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577368] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577368] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577379] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577379] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577388] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577389] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577425] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577426] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577436] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577437] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.577448] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.577448] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.585876] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.585879] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.586043] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.586044] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.598964] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.598968] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.599181] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.599182] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.601036] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.601038] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.601082] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.601083] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.602529] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.602531] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.602560] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.602561] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.605382] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.605384] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.605412] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.605412] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.611096] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.611098] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.611915] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.611916] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.619714] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.619716] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.624558] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.624559] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.631067] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.631069] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.631219] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.631219] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.631265] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.631266] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.631306] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.631306] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.631349] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.631349] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.631386] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.631387] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.631423] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.631424] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.631732] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.631732] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.634050] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.634052] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.639617] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.639620] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.639712] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.639713] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.651233] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.651234] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.651342] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.651342] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.651360] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.651360] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.651450] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.651451] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.651520] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.651521] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.651589] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.651590] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.651670] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.651671] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.651731] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.651732] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.651830] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.651831] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.651875] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.651876] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.651929] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.651930] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.654386] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.654388] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.654413] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.654413] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.654448] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.654449] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.654490] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.654490] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.654500] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.654500] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.654688] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.654688] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.666652] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.666653] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  852.668561] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  852.668562] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.681923] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.681925] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.682451] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.682452] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.683064] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.683065] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.683501] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.683502] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.735162] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.735174] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.736441] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.736443] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.737229] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.737230] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.737615] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.737616] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.778069] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.778070] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.778586] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.778586] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.778994] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.778995] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.779613] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.779614] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.813746] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.813748] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.814393] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.814394] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.814720] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.814721] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.815209] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.815209] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.843232] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.843234] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.843638] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.843639] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.844481] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.844483] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.845590] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.845591] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.877543] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.877544] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.877965] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.877966] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.878418] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
+[  854.878419] Audit: Friendly LSM file opened : gnome-calculato - User Id : 1000 
+[  854.878841] Warning: Friendly LSM file opened with Warning: gnome-calculato - User Id : 1000 
